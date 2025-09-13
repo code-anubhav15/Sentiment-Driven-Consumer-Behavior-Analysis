@@ -1,4 +1,4 @@
-# Customer Purchase Behavior and Sentiment Analysis
+# Sentiment Driven Consumer Behavior Analysis
 
 This repository hosts a comprehensive end-to-end project that analyzes customer purchase behavior and sentiment using SQL, Python, and Power BI. The project combines structured data on customer transactions and reviews to deliver actionable insights for businesses.
 
