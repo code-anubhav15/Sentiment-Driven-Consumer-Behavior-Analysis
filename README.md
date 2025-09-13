@@ -159,8 +159,3 @@ This project involves three core components:
 ├── README.md                               # Project description
 ```
 
-## Acknowledgments
-Special thanks to the creators of `TextBlob`, `pandas`, and other open-source libraries used in this project.
-
----
-
