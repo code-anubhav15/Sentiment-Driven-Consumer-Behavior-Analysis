@@ -120,10 +120,7 @@ This project involves three core components:
 - Power BI Desktop for visualizations.
 
 ### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/RafiQamar/Ecommerce-Analytics-Project.git
-   ```
+1. Clone this repository
 
 2. Set up the MySQL database:
    - Use the `cust_pur_details.sql` script to create and populate the database.
@@ -132,7 +129,6 @@ This project involves three core components:
    - Run the Python notebook (`Customer Purchase Behavior and Sentiment Analysis.ipynb`) to extract insights and generate visualizations.
 
 4. Open the Power BI file (`Ecommerce Analytics Dashboard.pbix`) to interact with the visualized insights.
-   -Or Through the published PowerBI web link(`https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9`) to interact with the visualized insights without login on the site.
 
 ## Results and Insights
 
